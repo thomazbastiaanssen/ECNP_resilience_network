@@ -8,6 +8,7 @@ editor_options:
 ---
 
 ```{r load, echo=FALSE, message=FALSE}
+knitr::opts_chunk$set(dev = 'svg') # set output device to svg
 source("scripts/plot_map.R")
 ```
 

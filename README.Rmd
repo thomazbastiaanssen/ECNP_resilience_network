@@ -1,0 +1,17 @@
+---
+output:
+  md_document:
+    variant: gfm
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+```{r load, echo=FALSE, message=FALSE}
+source("scripts/plot_map.R")
+```
+
+# Figure of represented countries
+```{r plot, echo=FALSE, message=FALSE}
+map_figure
+```

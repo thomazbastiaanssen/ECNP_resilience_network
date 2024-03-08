@@ -1,2 +1,3 @@
-# ECNP_resilience_network
-Code to plot nice maps for the ECNP resilience network in R
+# Figure of represented countries
+
+![](README_files/figure-gfm/plot-1.png)<!-- -->
